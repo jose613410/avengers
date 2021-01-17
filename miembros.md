@@ -3,6 +3,7 @@
 * Black panther
 * Black Widow
 * Capitán Marvel
+* nick fury
 3. capitan america
 * Falcon
 * Hank Pym
